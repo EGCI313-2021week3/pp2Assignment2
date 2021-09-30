@@ -1,3 +1,2 @@
-MY NAME IS ZAID AHAMED.
-
+MY GOOD name IS ZAID AHAMED.
 This message shows that changes have been made from the orignal repository.
